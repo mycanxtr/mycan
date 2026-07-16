@@ -1,5 +1,5 @@
 # mycan
-MYCAN v6.66 KULLANIMI
+MYCAN v6.69 KULLANIMI
 
 MyCan ilk kez çalıştırıldığında gerekli çalışma klasörlerini otomatik olarak oluşturur. Bu klasörlere yerleştirilen Ana Oyun PKG, Update / Backport PKG ve yama arşivleri otomatik olarak algılanır. Dosyalar başka bir konumdaysa MyCan arayüzündeki seçim düğmeleri kullanılarak farklı klasörlerden de seçilebilir.İngilizce dili yapay zeka çevirisidir. 
 
